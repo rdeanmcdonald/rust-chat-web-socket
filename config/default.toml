@@ -1,0 +1,11 @@
+env = "dev"
+
+[kafka]
+host = "localhost"
+port = "29092"
+
+[redis]
+host = "localhost"
+
+[log]
+level = "info"
